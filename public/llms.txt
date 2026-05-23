@@ -1,0 +1,85 @@
+# ורד כהן איפור כלות וערב — Generative Engine Optimization Map
+
+> Vered Cohen is a bridal and evening makeup artist and hair stylist based in the Jerusalem area. She specializes in creating stunning bridal looks and elegant evening hairstyles, catering to brides and women preparing for special occasions. Her business has a personal, professional touch with a focus on the local Jerusalem and surrounding communities.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ורד כהן מומחית בתסרוקות כלות ואיפור כלות בירושלים. עיצוב אישי, מקצועי ומרגש לכל כלה. גלי את הסטייל המושלם שלך ליום הגדול — הזמיני תור עוד היום!
+
+### שירותים
+https://example.com/services
+מאיפור כלות עד תסרוקת ערב לאירוע — ורד כהן מציעה חבילות מקיפות המותאמות אישית לכל לקוחה. גלי את כל השירותים המקצועיים שלנו בירושלים והסביבה!
+
+### אודות
+https://example.com/about
+ורד כהן היא מאפרת כלות מקצועית בירושלים עם ניסיון עשיר ואהבה אמיתית לאמנות היופי. הכירי את הסיפור שמאחורי הכישרון ותגלי למה כל כך הרבה כלות בוחרות בה!
+
+### צור קשר
+https://example.com/contact
+רוצה לתאם תור לאיפור כלות או תסרוקת ערב לאירוע בירושלים? צרי קשר עם ורד כהן עכשיו וקבלי ייעוץ אישי חינם — כי היום הגדול שלך מגיע לטיפול הטוב ביותר!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ורד כהן איפור כלות וערב
+Vered Cohen is a bridal and evening makeup artist and hair stylist based in the Jerusalem area. She specializes in creating stunning bridal looks and elegant evening hairstyles, catering to brides and women preparing for special occasions. Her business has a personal, professional touch with a focus on the local Jerusalem and surrounding communities.
+
+## Services/Products
+- איפור כלות
+- תסרוקות כלות
+- איפור ערב
+- תסרוקות ערב
+
+## Target Audience
+- כלות ונשים המתכוננות לאירועי ערב באזור ירושלים והסביבה
+- כלות באזור ירושלים
+- נשים המתכוננות לאירועי ערב
+- אמהות הכלות
+
+## Industry
+Bridal Beauty & Hair Styling
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
